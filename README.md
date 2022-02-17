@@ -8,4 +8,4 @@ Projects with which I have engaged.
 4. CosmoNuts: το project σε C++ με το οποίο προκριθήκαμε στον διαγωνισμό NASA SpaceApps Challenge το 2020.
 5. assembly: δυο προγραμματάκια σε assembly τα οποία έκανα στο πλαίσιο του μαθήματος "Οργάνωση Υπολογιστών". Το ένα είναι ο αλγόριθμος quicksort και το δεύτερο ο πολλαπλασιασμός floating point αριθμών.
 6. openGL: ο source code από ένα απλό πρόγραμμα γραφικών σε OpenGL. Αν και εξαιρετικά δύσχρηστη πιστεύω πως με βοήθησε να κατανοήσω καλύτερα τον low level προγραμματισμο.
-7. NotesOnPCBDesign: οι σημειώσεις μου για τον σχεδιασμό PCBs
+7. Notes and Tips for PCB Design: οι σημειώσεις μου για τον σχεδιασμό PCBs
