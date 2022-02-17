@@ -5,4 +5,4 @@ Projects with which I have engaged.
 1. TowerDefense: ένα παιχνίδι το οποίο ξεκίνησα σε Java με τον φίλο και συμφοιτητή Ορέστη Τσιράκη. Δεν έχει ολοκληρωθεί ακόμα.
 2. MinimaxWithPruning: ένας αλγόριθμος σορταρίσματος σε Java με ΑΒ pruning στα πλαίσια εργασίας του μαθήματος "Δομές Δεδομένων".
 3. Maze: Παιχνίδι με γραφικά σε Java το οποίο έφτιαξα σε συνεργασία με τον φίλο και συμφοιτητή Δημήτρη Μανώλη.
-4. CosmoNuts: το project με το οποίο προκριθήκαμε στον διαγωνισμό NASA SpaceApps Challenge το 2020
+4. CosmoNuts: το project σε C++ με το οποίο προκριθήκαμε στον διαγωνισμό NASA SpaceApps Challenge το 2020
